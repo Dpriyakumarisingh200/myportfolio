@@ -21,7 +21,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 ```
 myportfolio/
-├── index1.html          # Main HTML file
+├── index.html           # Main HTML file
 ├── style1.css           # Stylesheet
 ├── script1.js           # JavaScript functionality
 ├── priya.jpeg           # Profile image
@@ -43,7 +43,7 @@ myportfolio/
    ```
 
 3. **Open in browser**
-   - Simply open `index1.html` in your preferred web browser
+   - Simply open `index.html` in your preferred web browser
    - Or use a local server for development
 
 ## 📱 Sections
